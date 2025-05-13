@@ -54,8 +54,8 @@ Here are some projects you’ll find in this space (or coming soon):
 
 ## 🤝 Let’s Connect
 
-- [LinkedIn](https://urldefense.com/v3/__https://linkedin.com/in/your-link-here__;!!BhdT!nhnYgwyqXZdXpqCB3dlgPvrD7ol629LfijO5g5_XqtUyn0f8JJDsf4S-qNzeuqU3WAAKOhzsCiFl$)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn](https://urldefense.com/v3/__https://linkedin.com/in/rwhiddon__;!!BhdT!nhnYgwyqXZdXpqCB3dlgPvrD7ol629LfijO5g5_XqtUyn0f8JJDsf4S-qNzeuqU3WAAKOhzsCiFl$)  
+- [Email](mailto:rod@whiddon.net)  
 - [Blog / Portfolio](https://urldefense.com/v3/__https://yourwebsite.dev__;!!BhdT!nhnYgwyqXZdXpqCB3dlgPvrD7ol629LfijO5g5_XqtUyn0f8JJDsf4S-qNzeuqU3WAAKOp2zYlCQ$) *(optional)*
 
 > “The best way to predict the future is to architect it.”
