@@ -56,6 +56,6 @@ Here are some projects you’ll find in this space (or coming soon):
 
 - [LinkedIn](https://linkedin.com/in/rwhiddon)  
 - [Email](mailto:rod@whiddon.net)  
-- [Blog / Portfolio](http:whiddon.net) *(optional)*
+- [Blog / Portfolio](http:whiddon.net) 
 
 > “The best way to predict the future is to architect it.”
