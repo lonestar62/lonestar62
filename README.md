@@ -45,13 +45,6 @@ Here are some projects you’ll find in this space (or coming soon):
 
 ---
 
-## 📊 GitHub Stats
-
-![lonestar62's GitHub stats](https://urldefense.com/v3/__https://github-readme-stats.vercel.app/api?username=lonestar62&show_icons=true&theme=default__;!!BhdT!nhnYgwyqXZdXpqCB3dlgPvrD7ol629LfijO5g5_XqtUyn0f8JJDsf4S-qNzeuqU3WAAKOgpMG30k$)
-![Top Langs](https://urldefense.com/v3/__https://github-readme-stats.vercel.app/api/top-langs/?username=lonestar62&layout=compact__;!!BhdT!nhnYgwyqXZdXpqCB3dlgPvrD7ol629LfijO5g5_XqtUyn0f8JJDsf4S-qNzeuqU3WAAKOid4W5a4$)
-
----
-
 ## 🤝 Let’s Connect
 
 - [LinkedIn](https://linkedin.com/in/rwhiddon)  
