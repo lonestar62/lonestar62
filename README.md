@@ -1,6 +1,6 @@
 # Howdy, I'm Rodney Whiddon – Architecting the Future of AI-Driven Infrastructure
 
-Welcome to my GitHub! I'm a passionate technologist with over **29 years** of experience across DevOps, software engineering, and large-scale digital transformation. I specialize in **AI automation tooling**, **workflow orchestration**, and **cloud-native architecture** — where business outcomes meet bleeding-edge tech.
+Welcome to my GitHub! I'm a passionate technologist with over **29 years** of experience across DevOps, software engineering, and large-scale digital transformation. I specialize in **AI automation tooling**, **workflow orchestration**, and **cloud-native architecture** — where business outcomes meet bleeding-edge technology.
 
 ---
 
