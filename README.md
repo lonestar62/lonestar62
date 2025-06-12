@@ -16,12 +16,14 @@ Designing and deploying **NENA-compliant**, AWS/Azure-based call-routing systems
 
 ## 🔧 Technologies I Use
 
-| DevOps | Cloud & Infra | AI & Automation | Tools & Frameworks |
-|-------|----------------|------------------|---------------------|
-| GitOps | Azure | LangChain | Terraform |
-| CI/CD | AWS | GPT-4 & OpenAI APIs | Kubernetes |
-| Helm | Docker | Gumloop | Python |
-| IaC | Metaswitch | Custom AI Agents | Bash, Linux |
+| DevOps & IaC      | Cloud & Infrastructure      | AI & Automation       | Tools & Frameworks     |
+|-------------------|----------------------------|-----------------------|------------------------|
+| GitOps            | Azure                      | LangChain            | Terraform              |
+| CI/CD (GitHub Actions, Azure Pipelines) | AWS                        | GPT-4, OpenAI APIs     | Kubernetes             |
+| Helm              | Docker                     | Gumloop               | Python                 |
+| Infrastructure as Code (IaC) | Metaswitch                  | Custom AI Agents       | Bash & Linux           |
+| Monitoring (Prometheus, Grafana) | Azure DevOps                | Automation Scripting   | FastAPI, Flask         |
+| ArgoCD            | VMware/ESXi                 | LLMOps Tools          | Visual Studio Code     |
 
 ---
 
