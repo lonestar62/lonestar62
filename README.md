@@ -80,4 +80,45 @@ The platform’s ultimate goal is to provide a **cloud-based neurodiagnostic eco
 | Monitoring (Prometheus, Grafana) | Azure DevOps                      | Automation Scripting             | FastAPI, Flask                              |
 | ArgoCD                        | VMware/ESXi                       | LLMOps Tooling                   | Visual Studio Code                          |
 | Container Orchestration       | Hybrid Cloud (Azure + AWS)        | Replit AI Development            | Next.js, React, Tailwind                    |
-|
+|                               | Google Cloud Storage (GCS)        | AI Workflow Orchestration         | NeonDB, Supabase, PostgreSQL                |
+|                               | Edge & On-Prem (VMware, Bare Metal) | Conversational AI (Voice & IVR)  | Docker MCP Gateway & MCP Server Development |
+|                               | Telnyx API Integration            | Intelligent Document Processing  | GitHub Copilot, Replit AI, Claude Assist     |
+
+---
+
+## 💡 My Strengths
+
+- **AI Automation Architect**: Designing automation layers with GPT, LangChain, and multi-agent orchestration engines — spanning workflow automation, IVR voice systems, and document processing.  
+- **Cloud Transformation Leader**: Delivering highly available, hybrid platforms across **Azure, AWS, GCP, VMware, and bare metal** infrastructure.  
+- **Replit Prototyping Expert**: Rapidly building production-ready systems in **Replit** using **NeonDB, Flask, Next.js**, and **GCS integrations** for unified backend + frontend + storage workflows.  
+- **MCP Innovator**: Pioneering **Docker MCP Gateway & MCP Server** development to enable cross-agent communication and persistent multi-agent context.  
+- **Neuro-AI Visionary**: Engineering multimodal neurodiagnostic systems that integrate **scans, lab data, EMR notes, and neurological databases** into longitudinal patient profiles.  
+- **Business Development Strategist**: Creating AI-driven CRM and IVR-enabled systems with **Telnyx integration**, enabling small businesses to operate with enterprise-grade communication and analytics tools.  
+- **Document Workflow Engineer**: Building orchestration systems that combine **NeonDB, Flask, Next.js, and GCS** with AI-driven classification, metadata extraction, and natural-language document queries.  
+- **DevOps Champion**: Implementing GitOps and IaC best practices with **Terraform, Helm, Kubernetes, and ArgoCD** — from pipelines to production.  
+- **Observability Engineer**: Leveraging **Prometheus, Grafana, and custom monitoring stacks** to keep complex systems measurable and resilient.  
+- **Problem Solver**: Trusted “Apollo 13” mindset — creative, resourceful, and effective under pressure, always finding a solution with what’s in the room.  
+
+---
+
+## 📌 Featured Repositories
+
+Here are some projects you’ll find in this space (or coming soon):
+
+- `voicemail-modernization`: Infrastructure-as-code for region-based voicemail scaling, with automation, AI support, and MOP delivery tooling.  
+- `ai-pipeline-bot`: A GPT-4-powered workflow orchestrator for dev pipelines.  
+- `e911-esinet-arch`: Kubernetes-native architecture and routing design docs.  
+- `gitops-accelerator`: Opinionated GitOps starter kit with Helm + Terraform + Kubernetes.  
+- `biz-dev-system`: AI-driven CRM and lead intelligence platform with **Telnyx IVR integration**, built in Replit with NeonDB, Flask, and Next.js.  
+- `doc-management-system`: Intelligent document orchestration platform with **NeonDB + Flask + Next.js + GCS integration**, including classification, audit trails, and AI-driven natural language search.  
+- `neuro-ai-platform`: Multimodal neurodiagnostic prototype with **scan ingestion, neurological DB connectors, NeonDB + GCP integration, and longitudinal profile generation**.  
+
+---
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/rwhiddon)  
+- [Email](mailto:rod@whiddon.net)  
+- [Blog / Portfolio](http:whiddon.net)  
+
+> “The best way to predict the future is to architect it.”
