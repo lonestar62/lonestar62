@@ -8,22 +8,39 @@ Welcome to my GitHub! I'm a passionate technologist with over **29 years** of ex
 ## 🚀 Current Missions
 
 ### 1️⃣ Modernizing AT&T's Voicemail Infrastructure  
-Leading the migration and automation of a **90M-subscriber**, **6-region** Azure/Metaswitch voicemail system — transitioning from legacy Nokia hardware to a scalable, cloud-native platform.
+Leading the migration and automation of a **90M-subscriber**, **6-region** Azure/Metaswitch voicemail system — transitioning from legacy Nokia hardware to a scalable, cloud-native platform.  
+
+This initiative goes far beyond infrastructure migration — it represents a **complete reinvention of operational support** through automation:  
+- **Manpower Reduction via Automation**: Streamlining day-to-day support tasks with automated health checks, remediation workflows, and self-healing pipelines — reducing operational overhead and freeing engineers from repetitive tasks.  
+- **Markdown Documentation Automation**: Introducing a structured **Markdown + Jinja2 + frontmatter** documentation pipeline that dynamically generates runbooks, reference docs, and operational guides directly from the automation layer.  
+- **AI-Driven Support Layer**: Integrating GPT-based assistants to parse logs, recommend fixes, generate summaries, and accelerate incident resolution — transforming human-in-the-loop troubleshooting into **AI-augmented operations**.  
+- **Ansible Server Automation**: Deploying **Ansible-based automation servers** to orchestrate thousands of configuration changes across regions, ensuring compliance, consistency, and auditability.  
+- **MOP (Method of Procedure) Delivery Automation**: Automating the creation, sequencing, and delivery of **region-specific MOPs**, ensuring that deployments are reproducible, error-resistant, and version-controlled.  
+- **Operational Transformation**: By combining **IaC (Terraform/Helm)** with **MOP automation, Ansible workflows, and AI insights**, the voicemail platform is evolving into a **self-documenting, self-healing, cloud-native system** with drastically lower OPEX.  
+
+This project serves as a **blueprint for telco-scale operational automation**, proving how legacy infrastructure can be modernized into an **AI-powered, automation-first environment** at national scale.
+
+---
 
 ### 2️⃣ Next-Gen E911 Emergency Platforms  
-Designing and deploying **NENA-compliant**, AWS/Azure-based call-routing systems for **Intrado**, **Carbyne**, and **Motorola** to support AT&T's national ESINET PSAP transformation.
+Designing and deploying **NENA-compliant**, AWS/Azure-based call-routing systems for **Intrado**, **Carbyne**, and **Motorola** to support AT&T's national ESINET PSAP transformation.  
+These systems leverage **AI routing logic, automation pipelines, and compliance automation** to reduce human error, improve reliability, and provide **real-time scalability** for emergency call management.
+
+---
 
 ### 3️⃣ Business Development System  
 Building a **cloud-native business development and lead intelligence platform** that empowers small businesses with enterprise-grade tools. Core components:  
 - **Backend Infrastructure**: Built in **Replit** with **NeonDB** for lead storage, structured customer records, and event tracking.  
 - **APIs & Automation**: Flask-based APIs handle **callbacks, lead routing, appointment scheduling, and follow-ups**.  
 - **Telnyx IVR Integration**: AI-powered phone tree and call routing system that makes a small business “sound big.”  
-- **Notification Layer**: Integrated **Twilio/SendGrid alternatives** for SMS/email engagement.  
+- **Notification Layer**: Integrated **SMS/email messaging** for customer engagement and reminders.  
 - **Frontend Dashboard**: Developed in **Next.js + Tailwind**, delivering real-time analytics, pipeline visibility, and team collaboration features.  
 - **File & Asset Storage**: **Google Cloud Storage (GCS)** integration for documents, recordings, and attachments linked to leads.  
 - **AI Integration**: GPT-powered agents for lead qualification, dynamic call scripting, and intelligent response recommendations.  
 
 The system’s goal is to provide a **turnkey CRM + communications hub** for small-town businesses, replacing outdated answering systems with an **AI-first, cloud-native platform**.
+
+---
 
 ### 4️⃣ Document Management System  
 Developing a **next-generation intelligent document orchestration platform** designed for scalability, compliance, and automation. Key features:  
@@ -36,6 +53,8 @@ Developing a **next-generation intelligent document orchestration platform** des
 - **AI Layer**: LLM-powered indexing and summarization allow users to query documents in natural language and generate auto-summaries.  
 
 This project is designed as the backbone of an **enterprise-grade document ecosystem**, equally suited for **businesses, medical systems, and legal workflows**.
+
+---
 
 ### 5️⃣ Neurological Patent & Development Platform  
 Building a **multimodal AI system** for neurological diagnostics and research that integrates:  
@@ -61,45 +80,4 @@ The platform’s ultimate goal is to provide a **cloud-based neurodiagnostic eco
 | Monitoring (Prometheus, Grafana) | Azure DevOps                      | Automation Scripting             | FastAPI, Flask                              |
 | ArgoCD                        | VMware/ESXi                       | LLMOps Tooling                   | Visual Studio Code                          |
 | Container Orchestration       | Hybrid Cloud (Azure + AWS)        | Replit AI Development            | Next.js, React, Tailwind                    |
-|                               | Google Cloud Storage (GCS)        | AI Workflow Orchestration         | NeonDB, Supabase, PostgreSQL                |
-|                               | Edge & On-Prem (VMware, Bare Metal) | Conversational AI (Voice & IVR)  | Docker MCP Gateway & MCP Server Development |
-|                               | Telnyx API Integration            | Intelligent Document Processing  | GitHub Copilot, Replit AI, Claude Assist     |
-
----
-
-## 💡 My Strengths
-
-- **AI Automation Architect**: Designing automation layers with GPT, LangChain, and multi-agent orchestration engines — spanning workflow automation, IVR voice systems, and document processing.  
-- **Cloud Transformation Leader**: Delivering highly available, hybrid platforms across **Azure, AWS, GCP, VMware, and bare metal** infrastructure.  
-- **Replit Prototyping Expert**: Rapidly building production-ready systems in **Replit** using **NeonDB, Flask, Next.js**, and **GCS integrations** for unified backend + frontend + storage workflows.  
-- **MCP Innovator**: Pioneering **Docker MCP Gateway & MCP Server** development to enable cross-agent communication and persistent multi-agent context.  
-- **Neuro-AI Visionary**: Engineering multimodal neurodiagnostic systems that integrate **scans, lab data, EMR notes, and neurological databases** into longitudinal patient profiles.  
-- **Business Development Strategist**: Creating AI-driven CRM and IVR-enabled systems with **Telnyx integration**, enabling small businesses to operate with enterprise-grade communication and analytics tools.  
-- **Document Workflow Engineer**: Building orchestration systems that combine **NeonDB, Flask, Next.js, and GCS** with AI-driven classification, metadata extraction, and natural-language document queries.  
-- **DevOps Champion**: Implementing GitOps and IaC best practices with **Terraform, Helm, Kubernetes, and ArgoCD** — from pipelines to production.  
-- **Observability Engineer**: Leveraging **Prometheus, Grafana, and custom monitoring stacks** to keep complex systems measurable and resilient.  
-- **Problem Solver**: Trusted “Apollo 13” mindset — creative, resourceful, and effective under pressure, always finding a solution with what’s in the room.  
-
----
-
-## 📌 Featured Repositories
-
-Here are some projects you’ll find in this space (or coming soon):
-
-- `voicemail-modernization`: Infrastructure-as-code for region-based voicemail scaling.  
-- `ai-pipeline-bot`: A GPT-4-powered workflow orchestrator for dev pipelines.  
-- `e911-esinet-arch`: Kubernetes-native architecture and routing design docs.  
-- `gitops-accelerator`: Opinionated GitOps starter kit with Helm + Terraform + Kubernetes.  
-- `biz-dev-system`: AI-driven CRM and lead intelligence platform with **Telnyx IVR integration**, built in Replit with NeonDB, Flask, and Next.js.  
-- `doc-management-system`: Intelligent document orchestration platform with **NeonDB + Flask + Next.js + GCS integration**, including classification, audit trails, and AI-driven natural language search.  
-- `neuro-ai-platform`: Multimodal neurodiagnostic prototype with **scan ingestion, neurological DB connectors, NeonDB + GCP integration, and longitudinal profile generation**.  
-
----
-
-## 🤝 Let’s Connect
-
-- [LinkedIn](https://linkedin.com/in/rwhiddon)  
-- [Email](mailto:rod@whiddon.net)  
-- [Blog / Portfolio](http:whiddon.net)  
-
-> “The best way to predict the future is to architect it.”
+|
