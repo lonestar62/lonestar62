@@ -1,5 +1,6 @@
 # Howdy, I'm Rodney Whiddon – Architecting the Future of AI-Driven Infrastructure
 
+Hi, I’m **Rodney Whiddon**, Texas Aggie **Class of ’86**.  
 Welcome to my GitHub! I'm a passionate technologist with over **29 years** of experience across DevOps, software engineering, and large-scale digital transformation. I specialize in **AI automation tooling**, **workflow orchestration**, and **cloud-native architecture** — where business meets bleeding-edge technology.  
 
 ---
